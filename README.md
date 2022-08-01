@@ -12,3 +12,6 @@ https://github.com/MuMuloveU/e2ds-URP-
 节约时间就是珍惜生命。
 
 我的邮箱muyuanhuck@163.com
+脚本安装地址
+
+https://greasyfork.org/zh-CN/scripts/446173-e2ds%E9%AB%98%E4%B8%ADurp%E6%95%99%E5%8A%A1%E7%B3%BB%E7%BB%9F%E5%8A%A9%E6%89%8B
